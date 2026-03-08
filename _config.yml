@@ -11,7 +11,7 @@ title                    : "Humaira's Homepage"
 title_separator          : "-"
 name                     : &name "Humaira Kousar"
 description              : &description "personal description"
-url                      : https://sudo-Boris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://humaira-kousar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "humaira-kousar/humaira-kousar.github.io" 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/humaira-kousar"
+  github           : "humaira-kousar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/humaira-kousar-32b775136/"
+  linkedin         : "humaira-kousar-32b775136/"
   orcid            : 
   pinterest        :
   soundcloud       :
