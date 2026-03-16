@@ -30,22 +30,22 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 
 
 ### 📚 Publications
-- **Humaira Kousar**, HI Bhatti*, J Moon,"**Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**". *Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024*
+- **Humaira Kousar**, HI Bhatti*, J Moon,"<u>Pruning-based Data Selection and Network Fusion for Efficient Deep Learning</u>". *Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024*
 [Pdf](https://arxiv.org/pdf/2501.01118)
 
-- **Humaira Kousar**, HI Bhatti*, J Moon,"**PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion**". *Transactions on Machine Learning Research
+- **Humaira Kousar**, HI Bhatti*, J Moon,"<u>PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion</u>". *Transactions on Machine Learning Research
  (TMLR), 2026, (***Featured Certification***).*
 [Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
-- “**Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation**”.*(under review)*
+- “<u>Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation</u>”.*(under review)*
 
-- Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon. “**Distribution Aware Active Learning via Gaussian Mixtures**”. *International Conference on Learning Representations (ICLR), Workshop on Pitfalls of limited data and computation for Trustworthy ML,2023.*
+- Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon. “<u>Distribution Aware Active Learning via Gaussian Mixtures</u>”. *International Conference on Learning Representations (ICLR), Workshop on Pitfalls of limited data and computation for Trustworthy ML,2023.*
 [Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
 
-- MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon. “**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning.**” *Advances in Neural Information Processing Systems(NeurIPS), 2024.*
+- MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon. “<u>EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning</u>.” *Advances in Neural Information Processing Systems(NeurIPS), 2024.*
 [Pdf](https://arxiv.org/pdf/2311.07485)
 
-- **Humaira Kousar**, M Atif, H Ali, MH Kundi. "**WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)**". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
+- **Humaira Kousar**, M Atif, H Ali, MH Kundi. "<u>WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)</u>". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
 
 ## 📚 Accademic Service
 * Reviewer -- ICLR, International Conference on Learning Representations, 2026
