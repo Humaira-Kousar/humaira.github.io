@@ -35,7 +35,7 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 
 - **Humaira Kousar**, HI Bhatti*, J Moon,"**PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion**". *Transactions on Machine Learning Research
  (TMLR), 2026, (***Featured Certification***).*
-[Pdf]([https://openreview.net/forum?id=BvnxenZwqY](https://openreview.net/pdf?id=BvnxenZwqY))
+[Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
 - “**Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation**”.*(under review)*
 
@@ -43,6 +43,7 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 [Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
 
 - MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon. “**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning.**” *Advances in Neural Information Processing Systems(NeurIPS), 2024.*
+[Pdf](https://arxiv.org/pdf/2311.07485)
 
 - **Humaira Kousar**, M Atif, H Ali, MH Kundi. "**WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)**". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
 
