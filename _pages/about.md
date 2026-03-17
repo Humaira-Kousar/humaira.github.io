@@ -10,13 +10,13 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities]<img src="/images/Humaira2.jpg" width="300" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
+<img src="/images/Humaira2.jpg" width="200" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
  
 I am a Final Year Ph.D. candidate in the School of Electrical Engineering at the Korea Advanced Institute of Science and Technology (KAIST), South Korea. 
 Advised by Prof. Jaekyun Moon , my research bridges Active Learning and Distributed Machine Learning.
 I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
-Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages^^
+Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages.
 
 ## 📰 News
 * **March 2026** -- Our Workshop, "AI Modeling for Disappearing Knowledge (AIM4DK)", has been accepted in IJCAI-ECAI'26.
@@ -35,7 +35,7 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 [Pdf](https://arxiv.org/pdf/2501.01118)
 
 - **Humaira Kousar**, HI Bhatti, J Moon, "<u>PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion</u>". Transactions on Machine Learning Research
- (TMLR), 2026, (<span style="color: #28a745;">[**Featured Certification**>](https://jmlr.org/tmlr/papers/)</span).
+ (TMLR), 2026, (<span style="color: #28a745;"[**Featured Certification**](https://jmlr.org/tmlr/papers/)</span).
 [Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
 - “<u>Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation</u>”.*(under review)*
