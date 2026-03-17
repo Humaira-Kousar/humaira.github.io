@@ -9,7 +9,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Humaira's Homepage"
-title_separator          : "-"
+title_separator          : #"-"
 name                     : &name "Humaira Kousar"
 description              : &description "personal description"
 url                      : https://humaira-kousar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
