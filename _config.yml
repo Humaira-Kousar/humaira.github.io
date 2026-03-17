@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Humaira Kousar"
-  avatar           : <img src="/images/Humaira2.jpg" width="200" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
+  avatar           : "/images/Humaira2.jpg"
   bio              : "Ph.D. Student at KAIST"
   location         : "Daejeon, South Korea"
   employer         : "KAIST"
