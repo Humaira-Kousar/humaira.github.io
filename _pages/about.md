@@ -30,7 +30,9 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 
 
 ### 📚 Publications
-- **Humaira Kousar**, HI Bhatti, J Moon, "<u>Pruning-based Data Selection and Network Fusion for Efficient Deep Learning</u>". Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024
+- **Humaira Kousar**, HI Bhatti, J Moon, "<u>Pruning-based Data Selection and Network Fusion for Efficient Deep Learning</u>".
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024
 [Pdf](https://arxiv.org/pdf/2501.01118)
 <details>
   <summary><b>BibTeX</b></summary>
