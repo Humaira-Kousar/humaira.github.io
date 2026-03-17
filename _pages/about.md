@@ -12,11 +12,11 @@ redirect_from:
 
 <img src="/images/Humaira2.jpg" width="200" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
  
-I am a Final Year Ph.D. candidate in the School of Electrical Engineering at the Korea Advanced Institute of Science and Technology (KAIST), South Korea. 
+I am a Final Year Ph.D. candidate in the [School of Electrical Engineering at the Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), South Korea. 
 Advised by Prof. Jaekyun Moon , my research bridges Active Learning and Distributed Machine Learning.
 I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
-Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. 
+Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor at universities. 
 
 When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages.
 
@@ -37,7 +37,7 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 [Pdf](https://arxiv.org/pdf/2501.01118)
 
 - **Humaira Kousar**, HI Bhatti, J Moon, "<u>PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion</u>". Transactions on Machine Learning Research
- (TMLR), 2026, (<span style="color: #28a745;"[**Featured Certification**](https://jmlr.org/tmlr/papers/)</span).
+ (TMLR), 2026, (<span style="color: #28a745;">[**Featured Certification**</span>](https://jmlr.org/tmlr/papers/)).
 [Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
 - “<u>Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation</u>”.*(under review)*
